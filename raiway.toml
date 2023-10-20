@@ -1,0 +1,4 @@
+[env.production]
+
+RAILWAY_APP_NAME = "MiRutina"
+RAILWAY_ENV = "production"
